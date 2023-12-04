@@ -21,6 +21,7 @@ namespace Обфускатор
         //Второе изменение
         //Третье изменение
         //Четвёртое изменение
+        //Доп. Изменение
         public void addSourceCode(string sourceCode) { 
         this.sourceCode = sourceCode;
         }
