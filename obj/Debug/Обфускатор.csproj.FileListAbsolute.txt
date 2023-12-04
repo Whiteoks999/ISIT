@@ -1,0 +1,11 @@
+C:\Users\semix\source\repos\Обфускатор\Обфускатор\obj\Debug\Обфускатор.csproj.AssemblyReference.cache
+C:\Users\semix\source\repos\Обфускатор\Обфускатор\obj\Debug\Обфускатор.csproj.SuggestedBindingRedirects.cache
+C:\Users\semix\source\repos\Обфускатор\Обфускатор\obj\Debug\Обфускатор.Form1.resources
+C:\Users\semix\source\repos\Обфускатор\Обфускатор\obj\Debug\Обфускатор.Properties.Resources.resources
+C:\Users\semix\source\repos\Обфускатор\Обфускатор\obj\Debug\Обфускатор.csproj.GenerateResource.cache
+C:\Users\semix\source\repos\Обфускатор\Обфускатор\obj\Debug\Обфускатор.csproj.CoreCompileInputs.cache
+C:\Users\semix\source\repos\Обфускатор\Обфускатор\bin\Debug\Обфускатор.exe.config
+C:\Users\semix\source\repos\Обфускатор\Обфускатор\bin\Debug\Обфускатор.exe
+C:\Users\semix\source\repos\Обфускатор\Обфускатор\bin\Debug\Обфускатор.pdb
+C:\Users\semix\source\repos\Обфускатор\Обфускатор\obj\Debug\Обфускатор.exe
+C:\Users\semix\source\repos\Обфускатор\Обфускатор\obj\Debug\Обфускатор.pdb
