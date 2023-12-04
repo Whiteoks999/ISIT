@@ -18,6 +18,7 @@ namespace Обфускатор
 
         public static Obfuskator GetObfuskator() { return obfuskator; }
         //Какие-то изменения
+        //Второе изменение
         public void addSourceCode(string sourceCode) { 
         this.sourceCode = sourceCode;
         }
