@@ -31,7 +31,8 @@ namespace Обфускатор
         }
 
         public string obfuscate() {
-            string st = sourceCode.Replace("\r\n", " "); //удаление переноса строк
+            //Человек вносит изменение в файл из локального репозитория
+            string st = sourceCode.Replace("\r\n", " "); 
             string[] wordsCode = st.Split(' '); 
             string oldClassName = "";
             string newClassName = randomNameClass();
